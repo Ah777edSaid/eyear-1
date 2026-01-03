@@ -5,7 +5,7 @@ A simple Python package for eyEar functionalities.
 ## Installation requirement 
 
 ```python
-pip install --no-cache-dir git+https://github.com/eyEar-system/eyear.git
+!pip install --no-cache-dir git+https://github.com/eyEar-system/eyear.git
 ```
 ```python
 #firebase

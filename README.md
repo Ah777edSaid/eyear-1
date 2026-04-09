@@ -17,7 +17,6 @@ pip install --no-cache-dir git+https://github.com/eyEar-system/eyear.git
 
 #imageProcess
 #!pip install torch transformers Pillow
-#تم اضافة torch transformers من مكان مختلف
 !pip install Pillow
 
 #TTS

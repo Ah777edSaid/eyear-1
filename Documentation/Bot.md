@@ -1,7 +1,6 @@
-# 🧠 دراسة مقارنة لاختيار نموذج LLM مفتوح المصدر لتطبيق دردشة على Google Colab (CPU)
 
 ### by : Ah777ed_said
-**السياق**: بحث عن نموذج شبيه ChatGPT لكن مفتوح المصدر ويقدر يشتغل على Google Colab CPU
+: بحث عن نموذج شبيه ChatGPT لكن مفتوح المصدر ويقدر يشتغل على Google Colab CPU
 
 ## use llama 1 B
 ```python 
@@ -25,9 +24,6 @@ output = bot.start_chat("hello")
 
 ---
 
-## السؤال: هل نقصد meta-llama/Llama-3.2-1B-Instruct؟
-
-الإجابة: نعم. هذا هو النموذج الذي يمكن تشغيله في بيئات CPU مثل Google Colab.
 
 ---
 
@@ -36,7 +32,6 @@ output = bot.start_chat("hello")
 وعلى الأساس ده احتاجنا نموذج:
 - صغير حجمًا
 - متوافق مع transformers
-- مينفع عليه LoRA لحقن النماذج لحقًا
 
 ---
 
